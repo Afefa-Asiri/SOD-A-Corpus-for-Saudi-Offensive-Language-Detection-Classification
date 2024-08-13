@@ -18,8 +18,7 @@ import matplotlib.pyplot as plt
 
 
 # Load the CSV file
-#df = pd.read_csv('D:/Afefa_PhD/Data Collection/Final Data_ReadyToBeUsed/ReadyToUseSD_HateSpeech.csv')
-df = pd.read_csv('D:/Afefa_PhD/Coding/Coding On My Collected Dataset/Updated_Final Datasets_ Codes _ Figures_ Results/UsedDataset/SDHateSpeech.csv')
+df = pd.read_csv('SDHateSpeech.csv')
 
 
 # Drop rows with missing values for simplicity
